@@ -1,0 +1,10 @@
+@INPROCEEDINGS{bartolomei2020multi,
+  author={L. {Bartolomei} and M. {Karrer} and M. {Chli}},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Multi-robot Coordination with Agent-Server Architecture for Autonomous Navigation in Partially Unknown Environments}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={},
+  }
+
