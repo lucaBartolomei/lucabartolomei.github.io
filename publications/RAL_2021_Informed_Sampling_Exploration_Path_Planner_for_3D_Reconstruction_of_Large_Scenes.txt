@@ -1,5 +1,5 @@
 @INPROCEEDINGS{kompis2021informed,
-  author={Y. {Kompi} and L. {Bartolomei} and R. {Mascaro} and P. {Teixeira} and M. {Chli}},
+  author={Y. {Kompis} and L. {Bartolomei} and R. {Mascaro} and P. {Teixeira} and M. {Chli}},
   booktitle={IEEE Robotics and Automation Letters (RA-L), 2021}, 
   title={Informed Sampling Exploration Path Planner for 3D Reconstruction of Large Scenes}, 
   year={2021},
