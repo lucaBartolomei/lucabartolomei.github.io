@@ -1,4 +1,4 @@
-@INPROCEEDINGS{bartolomei2020multi,
+@INPROCEEDINGS{heuppi2022tprm,
   author={M. {Hüppi} and L. {Bartolomei} and R. {Mascaro} and M. {Chli}},
   booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
   title={T-PRM: Temporal Probabilistic Roadmap for Path Planning in Dynamic Environments}, 
