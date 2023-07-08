@@ -1,4 +1,4 @@
-@INPROCEEDINGS{kompis2021informed,
+@INPROCEEDINGS{morilla2022sweep,
   author={D. {Morilla-Cabello} and L. {Bartolomei} and L. {Teixeira} and E. {Montijano} and M. {Chli}},
   booktitle={IEEE Robotics and Automation Letters (RA-L), 2022}, 
   title={Sweep-Your-Map: Efficient Coverage Planning for Aerial Teams in Large-Scale Environments}, 
