@@ -1,0 +1,10 @@
+@inproceedings{bartolomei2023multi,
+  title={Fast Multi-UAV Decentralized Exploration of Forests},
+  author={Bartolomei, Luca and Teixeira, Lucas and Chli, Margarita},
+  booktitle={IEEE Robotics and Automation Letters},
+  year={2023},
+  volume={},
+  number={},
+  pages={},
+}
+
