@@ -1,0 +1,10 @@
+@INPROCEEDINGS{bone2023dmce,
+  author={S. {Bone} and L. {Bartolomei} and F. {Kennel-Maushart} and M. {Chli}},
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={{Decentralised Multi-Robot Exploration using Monte Carlo Tree Search}}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={},
+  }
+
