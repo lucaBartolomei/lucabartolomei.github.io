@@ -3,7 +3,7 @@ title: "Autonomous Emergency Landing for Multicopters using Deep Reinforcement L
 collection: publications
 category: conferences
 permalink: /publication/IROS_2022_DeepRL_Landing
-excerpt: 'We present an autonomous emergency landing pipeline for multicopters that handles critical failures, such as mechanical malfunctions, GPS jamming, or sudden battery drops. By leveraging semantic and depth representations, our policy achieves direct zero-shot transfer to the real world without requiring any additional fine-tuning. Video available [here](https://www.youtube.com/watch?v=p8tpLL7Q0GE).'
+excerpt: 'The paper presents an autonomous emergency landing pipeline for multicopters that handles critical failures, such as mechanical malfunctions, GPS jamming, or sudden battery drops. By leveraging semantic and depth representations, our policy achieves direct zero-shot transfer to the real world without requiring any additional fine-tuning. Video available [here](https://www.youtube.com/watch?v=p8tpLL7Q0GE).'
 date: 2022-10-23
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://lucabartolomei.github.io/files/IROS_2022_DeepRL_Landing.pdf'

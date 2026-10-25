@@ -3,7 +3,7 @@ title: "Multi-robot Coordination with Agent-Server Architecture for Autonomous N
 collection: publications
 category: conferences
 permalink: /publication/IROS_2020_Multi_Robot
-excerpt: 'We present a server-agent system architecture for multi-robot autonomous navigation in partially unknown environments, where computationally demanding tasks like global mapping and path planning are outsourced to a central server, while agents handle local pose estimation and obstacle avoidance onboard. Video available [here](https://www.youtube.com/watch?v=BlFbiuV-d10).'
+excerpt: 'A server-agent system architecture for multi-robot autonomous navigation in partially unknown environments is presented, where computationally demanding tasks like global mapping and path planning are outsourced to a central server, while agents handle local pose estimation and obstacle avoidance onboard. Video available [here](https://www.youtube.com/watch?v=BlFbiuV-d10).'
 date: 2020-10-25
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://lucabartolomei.github.io/files/IROS_2020_Multi_Robot.pdf'

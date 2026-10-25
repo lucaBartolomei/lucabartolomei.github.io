@@ -15,11 +15,15 @@ redirect_from:
 * B.Sc. in *Mechanical Engineering*, Politecnico di Milano, 2015
 
 ## Work Experience
+* **Senior Robotics Engineer** (12.2026 - current)
+  * *Verity AG*, Zürich (CH)
+
 * **Senior Computer Vision Engineer** (05.2023 - 11.2026)
   * *Magic Leap, Inc.*, Zürich (CH)
   * Improved tracking robustness and user experience while reducing SLAM estimation error across edge cases, as validated by accuracy metrics and KPI benchmarks, by developing C++/Python sensor fusion, VIO, and online calibration pipelines for AR/VR/XR headsets.
+  * Worked as an external vendor for Google XR, contributing to advanced perception algorithms and spatial intelligence software for Google's next-generation AI-powered AR smart glasses.
 
-* **Researcher** (04.2018 - 04.2023)
+* **PhD Candidate / Scientific Researcher** (04.2018 - 04.2023)
   * *ETH Zürich*, Zürich (CH)
   * Advanced the state of the art in autonomous navigation, multi-robot coordination, and SLAM, as demonstrated by papers in top-tier robotics venues (ICRA, IROS, 3DV, RA-L), by designing and implementing novel classical and deep-learning motion planning and state estimation algorithms.
 

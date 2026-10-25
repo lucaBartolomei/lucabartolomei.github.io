@@ -3,7 +3,7 @@ title: "Semantic-aware Active Perception for UAVs using Deep Reinforcement Learn
 collection: publications
 category: conferences
 permalink: /publication/IROS_2021_RL_based_Active_Perception
-excerpt: 'We present a semantic-aware path-planning pipeline for UAVs that uses deep reinforcement learning to evaluate the perceptual informativeness of visible semantic classes. By training on semantic cues across non-photorealistic, randomly generated scenes, the deep policy network successfully generalizes to unseen environments while guiding the UAV away from perceptually degraded regions. Video available [here](https://www.youtube.com/watch?v=RaO3whUBVnc).'
+excerpt: 'The paper presents a semantic-aware path-planning pipeline for UAVs that uses deep reinforcement learning to evaluate the perceptual informativeness of visible semantic classes. By training on semantic cues across non-photorealistic, randomly generated scenes, the deep policy network successfully generalizes to unseen environments while guiding the UAV away from perceptually degraded regions. Video available [here](https://www.youtube.com/watch?v=RaO3whUBVnc).'
 date: 2021-09-27
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://lucabartolomei.github.io/files/IROS_2021_RL_based_Active_Perception.pdf'

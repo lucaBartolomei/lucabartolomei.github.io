@@ -3,7 +3,7 @@ title: "Informed Sampling Exploration Path Planner for 3D Reconstruction of Larg
 collection: publications
 category: manuscripts
 permalink: /publication/RAL_2021_Informed_Sampling_Exploration_Path_Planner_for_3D_Reconstruction_of_Large_Scenes
-excerpt: 'Addressing MAV computational and energy constraints, our frontier-based informed sampling approach streamlines viewpoint evaluation to accelerate autonomous exploration, outperforming state-of-the-art planners in both exploration speed and final 3D reconstruction quality. Video available [here](https://www.youtube.com/watch?v=QR3Ay8AUQE8&feature=youtu.be).'
+excerpt: 'Addressing MAV computational and energy constraints, the letter proposes a frontier-based informed sampling approach streamlines viewpoint evaluation to accelerate autonomous exploration, outperforming state-of-the-art planners in both exploration speed and final 3D reconstruction quality. Video available [here](https://www.youtube.com/watch?v=QR3Ay8AUQE8&feature=youtu.be).'
 date: 2021-09-27
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 paperurl: 'https://lucabartolomei.github.io/files/RAL_2021_Informed_Sampling_Exploration_Path_Planner_for_3D_Reconstruction_of_Large_Scenes.pdf'

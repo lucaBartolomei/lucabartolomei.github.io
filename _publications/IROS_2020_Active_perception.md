@@ -3,7 +3,7 @@ title: "Perception-aware Path Planning for UAVs using Semantic Segmentation"
 collection: publications
 category: conferences
 permalink: /publication/IROS_2020_Active_perception
-excerpt: 'We present a perception-aware path-planning pipeline for UAVs that leverages semantic segmentation to avoid texture-less or problematic areas, such as bodies of water, that degrade monocular VIO state estimation, actively steering the robot toward perceptually informative regions. Video available [here](https://youtu.be/vxAXimQ9CGU).'
+excerpt: 'This paper presents a perception-aware path-planning pipeline for UAVs that leverages semantic segmentation to avoid texture-less or problematic areas, such as bodies of water, that degrade monocular VIO state estimation, actively steering the robot toward perceptually informative regions. Video available [here](https://youtu.be/vxAXimQ9CGU).'
 date: 2020-10-25
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://lucabartolomei.github.io/files/IROS_2020_Active_perception.pdf'

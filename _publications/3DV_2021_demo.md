@@ -3,7 +3,7 @@ title: "Fully Autonomous Live 3D Reconstruction with an MAV: Hardware- and Softw
 collection: publications
 category: workshops
 permalink: /publication/3DV_2021_demo
-excerpt: 'We present a versatile Micro-Aerial Vehicle (MAV) setup demonstrating fully autonomous live 3D reconstruction in real-world scenarios. With the aim of reproducability we provide key information on both the hardware- and software-setup. Video available [here](https://youtu.be/ytru7-iqqB4).'
+excerpt: 'The tutorial presents a versatile Micro-Aerial Vehicle (MAV) setup demonstrating fully autonomous live 3D reconstruction in real-world scenarios. With the aim of reproducability, the key information on both the hardware- and software-setup are provided. Video available [here](https://youtu.be/ytru7-iqqB4).'
 date: 2021-12-01
 venue: 'Research Demos at International Conference on 3D Vision (3DV)'
 paperurl: 'https://lucabartolomei.github.io/files/3DV_2021_demo.pdf'

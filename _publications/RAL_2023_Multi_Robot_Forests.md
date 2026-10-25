@@ -3,7 +3,7 @@ title: "Fast multi-UAV decentralized exploration of forests"
 collection: publications
 category: manuscripts
 permalink: /publication/RAL_2023_Multi_Robot_Forests
-excerpt: 'Addressing the challenges of high obstacle density and long-distance wireless communication limits in UAV fleets, our multi-robot exploration framework achieves complete coverage of complex forest environments up to 30% faster than state-of-the-art baselines. Video available [here](https://www.youtube.com/watch?v=F3aKqi5Q2LE).'
+excerpt: 'Addressing the challenges of high obstacle density and long-distance wireless communication limits in UAV fleets, the proposed multi-robot exploration framework achieves complete coverage of complex forest environments up to 30% faster than state-of-the-art baselines. Video available [here](https://www.youtube.com/watch?v=F3aKqi5Q2LE).'
 date: 2023/07/17
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 paperurl: 'https://lucabartolomei.github.io/files/RAL_2023_Multi_Robot_Forests.pdf'

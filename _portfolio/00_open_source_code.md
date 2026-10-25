@@ -3,9 +3,9 @@ title: "Open Source Repositories"
 collection: portfolio
 ---
 
-* [Fast Multi-robot Exploration](https://github.com/v4rl-ucy/fast_multi_robot_exploration)<br>This repository contains a decentralized multi-robot explorer that coordinates a team of Unmanned Aerial Vehicles (UAVs) to explore forests.
-* [SMB Path Planner](https://github.com/ETHZ-RobotX/smb_path_planner)<br>Repository for the path planner for SMB for the ETH Robotics Summer School
-* [Multi-robot Coordination](v4rl-ucy/multi_robot_coordination)<br>This repository contains a hierachical multi-robot global planner that generates paths for a team of Unmanned Aerial Vehicles (UAVs).
-* [Pose-graph Backend](https://github.com/v4rl-ucy/pose_graph_backend)<br>This repository contains an optimization-based pose-graph backend for multi-agent sensor fusion, used in a wider framework for multi-robot path planning.
-* [Multirotors Landing](https://github.com/v4rl-ucy/multirotors_landing)<br>This repository contains an deep reinforcement learning-based lander for UAVs using semantic and depth informatiom.
-* [Pointcloud Utilities](https://github.com/lucaBartolomei/pointcloud_utils)<br>Set of ROS nodes to do some processing with pointclouds.
+* [Fast Multi-robot Exploration](https://github.com/v4rl-ucy/fast_multi_robot_exploration)<br>Decentralized multi-robot exploration framework for coordinating teams of UAVs in forest environments.
+* [SMB Path Planner](https://github.com/ETHZ-RobotX/smb_path_planner)<br>Autonomous path planning pipeline deployed on the Super Mega Bot (SMB) platform during the ETH Zurich Robotics Summer School.
+* [Multi-robot Coordination](v4rl-ucy/multi_robot_coordination)<br>A hierarchical global path-planning framework for multi-robot systems, enabling coordinated trajectory generation for fleets of Unmanned Aerial Vehicles (UAVs).
+* [Pose-graph Backend](https://github.com/v4rl-ucy/pose_graph_backend)<br>A multi-agent sensor fusion engine leveraging optimization-based pose-graph backends to support distributed multi-robot path planning.
+* [Multirotors Landing](https://github.com/v4rl-ucy/multirotors_landing)<br>A deep reinforcement learning (RL) pipeline for autonomous multi-rotor UAV landing, leveraging multimodal semantic scene segmentation and depth inputs to identify safe landing zones.
+* [Pointcloud Utilities](https://github.com/lucaBartolomei/pointcloud_utils)<br>A collection of modular ROS nodes designed for real-time 3D point cloud processing, transformation, and spatial data handling.

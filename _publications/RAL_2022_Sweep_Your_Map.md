@@ -3,7 +3,7 @@ title: "Sweep-Your-Map: Efficient Coverage Planning for Aerial Teams in Large-Sc
 collection: publications
 category: manuscripts
 permalink: /publication/RAL_2022_Sweep_Your_Map
-excerpt: 'Addressing the strict battery and flight-time constraints of small drones in large-scale outdoor missions, our pipeline generates structured task partitions to achieve comprehensive visual coverage significantly faster than state-of-the-art exploration baselines. Video available [here](https://www.youtube.com/watch?v=DmOLZ0OPGzM).'
+excerpt: 'This letter proposes a pipeline that generates structured task partitions to achieve comprehensive visual coverage significantly faster than state-of-the-art exploration baselines, addressing the strict battery and flight-time constraints of small drones in large-scale outdoor missions. Video available [here](https://www.youtube.com/watch?v=DmOLZ0OPGzM).'
 date: 2022-10-23
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 paperurl: 'https://lucabartolomei.github.io/files/RAL_2022_Sweep_Your_Map.pdf'

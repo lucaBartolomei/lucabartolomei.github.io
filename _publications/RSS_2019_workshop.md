@@ -3,7 +3,7 @@ title: "Active Learning for UAV-based Semantic Mapping"
 collection: publications
 category: workshops
 permalink: /publication/RSS_2019_workshop
-excerpt: '"Addressing the labor-intensive bottleneck of training data collection in vision-based UAV applications, our novelty-aware path planner is validated on real-world terrain mapping datasets, yielding substantially smaller, more informative training datasets compared to standard lawnmower pattern collection.'
+excerpt: 'Addressing the labor-intensive bottleneck of training data collection in vision-based UAV applications, our novelty-aware path planner is validated on real-world terrain mapping datasets, yielding substantially smaller, more informative training datasets compared to standard lawnmower pattern collection.'
 date: 2019-08-29
 venue: 'Workshop on Informative Path Planning and Active Sampling, Robotics: Science and Systems (RSS)'
 paperurl: 'https://lucabartolomei.github.io/files/RSS_2019_workshop.pdf'

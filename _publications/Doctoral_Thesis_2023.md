@@ -3,7 +3,7 @@ title: "Towards Robust Active Planning for Autonomous Aerial Navigation"
 collection: publications
 category: theses
 permalink: /publication/Doctoral_Thesis_2023
-excerpt: 'Focusing on vision-based navigation in challenging, GPS-denied scenarios, this work pioneers the use of semantic cues for active path planning. By integrating semantic segmentation with deep reinforcement learning, the proposed frameworks actively steer MAVs toward visually reliable scene structures while avoiding perceptually degraded regions—improving VI-SLAM accuracy, trajectory robustness, and autonomous emergency landing capabilities.'
+excerpt: 'This thesis addresses the fundamental challenges of autonomous aerial navigation in GPS-denied and obstacle-dense environments across two core pillars: decentralized multi-robot coordination and semantic perception-aware active planning. By integrating high-level semantic scene understanding and deep reinforcement learning (RL) into path planning, the proposed frameworks improve localization reliability, mission execution speed, and robot safety in real-world scenarios.'
 date: 2023-04-25
 venue: 'ETH Doctoral Examination'
 paperurl: 'https://lucabartolomei.github.io/files/Doctoral_Thesis_2023.pdf'

@@ -3,7 +3,7 @@ title: "T-PRM: Temporal Probabilistic Roadmap for Path Planning in Dynamic Envir
 collection: publications
 category: conferences
 permalink: /publication/IROS_2022_TPRM
-excerpt: 'Temporal-PRM maintains the core advantages of traditional PRM—such as multi-query capabilities and smooth path generation—while enabling collision-free navigation in highly dynamic, cluttered environments, operating in real time onboard a flying robot. Video available [here](https://www.youtube.com/watch?v=Eh6brn_dVlU&t).'
+excerpt: 'Temporal-PRM maintains the core advantages of traditional PRM, such as multi-query capabilities and smooth path generation, while enabling collision-free navigation in highly dynamic, cluttered environments, operating in real time onboard a flying robot. Video available [here](https://www.youtube.com/watch?v=Eh6brn_dVlU&t).'
 date: 2022-10-23
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://lucabartolomei.github.io/files/IROS_2022_TPRM.pdf'
