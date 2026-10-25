@@ -1,0 +1,10 @@
+@INPROCEEDINGS{pan2022voxfield,
+  author={Y. {Pan} and Y. {Kompis} and L. {Bartolomei} and R. {Mascaro} and C. {Stachniss} and M. {Chli}},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Voxfield: Non-Projective Signed Distance Fields for Online Planning and 3D Reconstruction}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={},
+  }
+

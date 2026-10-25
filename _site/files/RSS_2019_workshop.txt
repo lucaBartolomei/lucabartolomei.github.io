@@ -1,0 +1,8 @@
+@misc{blum2019active,
+    title={Active Learning for UAV-based Semantic Mapping},
+    author={Hermann Blum and Silvan Rohrbach and Marija Popovic and Luca Bartolomei and Roland Siegwart},
+    year={2019},
+    eprint={1908.11157},
+    archivePrefix={arXiv},
+    primaryClass={cs.RO}
+}

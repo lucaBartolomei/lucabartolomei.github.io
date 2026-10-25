@@ -1,0 +1,10 @@
+@INPROCEEDINGS{bartolomei2021semantic,
+  author={L. {Bartolomei} and P. {Teixeira} and M. {Chli}},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Semantic-aware Active Perception for UAVs using Deep Reinforcement Learning}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={},
+  }
+

@@ -1,0 +1,9 @@
+@INPROCEEDINGS{kompis2021mav,
+  title={Fully Autonomous Live 3D Reconstruction with an MAV: Hardware- and Software-Setup},
+  booktitle={2021 International Conference on 3D Vision (3DV)}, 
+  author={Kompis, Yves and Bartolomei, Luca and Chli, Margarita},
+  year={2021},
+  volume={},
+  number={},
+  pages={},
+}

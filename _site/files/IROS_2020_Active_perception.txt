@@ -1,0 +1,10 @@
+@INPROCEEDINGS{bartolomei2020perception,
+  author={L. {Bartolomei} and P. {Teixeira} and M. {Chli}},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Perception-aware Path Planning for UAVs using Semantic Segmentation}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={},
+  }
+

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{gawel2019fully,
+  author={A. {Gawel} and H. {Blum} and J. {Pankert} and K. {Krämer} and L. {Bartolomei} and S. {Ercan} and F. {Farshidian} and M. {Chli} and F. {Gramazio} and R. {Siegwart} and M. {Hutter} and T. {Sandy}},
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={A Fully-Integrated Sensing and Control System for High-Accuracy Mobile Robotic Building Construction}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={2300-2307},
+  }
+
