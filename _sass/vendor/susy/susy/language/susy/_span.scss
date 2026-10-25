@@ -161,7 +161,7 @@
     }
 
     @else {
-      $width: percentage(math.div($span-sum, $context));
+      $width: percentage(($span-sum / $context));
     }
   }
 
